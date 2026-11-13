@@ -28,7 +28,7 @@ github_release/
 ├── roi_affine_tracker.py
 ├── target_appearance.py
 ├── target_selector.py
-├── models/                 # 放置本地 ONNX 权重；权重不提交到 Git
+├── models/                
 └── ...                     # 其余融合和兼容模块
 ```
 
