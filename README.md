@@ -67,7 +67,6 @@ python -m pip install -r requirements-servo.txt
 python3 dj_show2.py --modelpath /path/to/model.onnx --classfile /path/to/classes.names
 ```
 
-ONNX 文件已被 `.gitignore` 排除，不会随 Git 提交。
 
 ## 运行
 
